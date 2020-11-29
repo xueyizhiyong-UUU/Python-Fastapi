@@ -1,0 +1,172 @@
+{
+
+  "usersecret0":{
+    "documentsecret0": {
+      "preview": 1,
+      "borrow": 1,
+      "print": 1,
+      "download": 1
+    },
+    "documentsecret1":{
+      "preview": 2,
+      "borrow": 1,
+      "print": 2,
+      "download": 2
+    },
+    "documentsecret2":{
+      "preview": 2,
+      "borrow": 1,
+      "print": 0,
+      "download": 0
+    },
+    "documentsecret3":{
+      "preview": 0,
+      "borrow": 0,
+      "print": 0,
+      "download": 0
+    },
+    "documentsecret4":{
+      "preview": 0,
+      "borrow": 0,
+      "print": 0,
+      "download": 0
+    }
+
+    },
+
+  "usersecret1":{
+    "documentsecret0":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 1,
+      "download": 1
+    },
+    "documentsecret1":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 1,
+      "download": 1
+    },
+    "documentsecret2":{
+      "preview": 2,
+      "borrow": 1,
+      "print": 0,
+      "download": 0
+    },
+    "documentsecret3":{
+      "preview": 0,
+      "borrow": 0,
+      "print": 0,
+      "download": 0
+    },
+    "documentsecret4":{
+      "preview": 0,
+      "borrow": 0,
+      "print": 0,
+      "download": 0
+    }
+
+  },
+
+  "usersecret2":{
+    "documentsecret0":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 1,
+      "download": 1
+    },
+    "documentsecret1":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 1,
+      "download": 1
+    },
+    "documentsecret2":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 1,
+      "download": 1
+    },
+    "documentsecret3":{
+      "preview": 0,
+      "borrow": 0,
+      "print": 0,
+      "download": 0
+    },
+    "documentsecret4":{
+      "preview": 0,
+      "borrow": 0,
+      "print": 0,
+      "download": 0
+    }
+
+  },
+
+  "usersecret3":{
+    "documentsecret0":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 1,
+      "download": 1
+    },
+    "documentsecret1":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 1,
+      "download": 1
+    },
+    "documentsecret2":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 1,
+      "download": 1
+    },
+    "documentsecret3":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 0,
+      "download": 0
+    },
+    "documentsecret4":{
+      "preview": 2,
+      "borrow": 1,
+      "print": 0,
+      "download": 0
+    }
+
+  },
+
+  "usersecret4":{
+    "documentsecret0":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 1,
+      "download": 1
+    },
+    "documentsecret1":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 1,
+      "download": 1
+    },
+    "documentsecret2":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 1,
+      "download": 1
+    },
+    "documentsecret3":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 0,
+      "download": 0
+    },
+    "documentsecret4":{
+      "preview": 1,
+      "borrow": 1,
+      "print": 0,
+      "download": 0
+    }
+
+  }
+  }
